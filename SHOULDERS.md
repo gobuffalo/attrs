@@ -4,9 +4,11 @@ github.com/gobuffalo/attrs does not try to reinvent the wheel! Instead, it uses 
 
 Thank you to the following **GIANTS**:
 
-
+* [github.com/davecgh/go-spew](https://godoc.org/github.com/davecgh/go-spew)
 * [github.com/gobuffalo/flect](https://godoc.org/github.com/gobuffalo/flect)
-
 * [github.com/pkg/errors](https://godoc.org/github.com/pkg/errors)
-
+* [github.com/pmezard/go-difflib](https://godoc.org/github.com/pmezard/go-difflib)
+* [github.com/stretchr/objx](https://godoc.org/github.com/stretchr/objx)
 * [github.com/stretchr/testify](https://godoc.org/github.com/stretchr/testify)
+* [gopkg.in/check.v1](https://godoc.org/gopkg.in/check.v1)
+* [gopkg.in/yaml.v3](https://godoc.org/gopkg.in/yaml.v3)
